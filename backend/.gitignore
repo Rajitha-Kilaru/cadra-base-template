@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.env
+loader-report.json
+dist/
+
+# Data files — never commit the actual CSVs
+data/*.csv
+data/DATA_DICTIONARY.md
+data/*.md
+!backend/test/fixtures/*.csv
+!backend/test/fixtures/*.md

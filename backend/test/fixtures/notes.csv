@@ -1,0 +1,9 @@
+note_id,order_id,author,text,created_at
+N-7001,ORD-6001,farm,Sprayer window closes Friday.,2026-06-20 10:06:00
+N-7002,ORD-6001,Ops,Can we get this done by Monday?,2026-06-20 11:00:00
+N-7003,ORD-6002,FARM,Need this ASAP.,2026-06-20 12:00:00
+N-7004,ORD-6003,farm,Check with supplier first.,2026-06-20 09:30:00
+N-7005,ORD-6004,ops,Confirmed with warehouse.,2026-06-21 08:30:00
+N 7006,ORD-6005,farm,Please rush this order.,2026-06-21 10:00:00
+n7007,ORD-6006,ops,stock allocated.,2026-06-21 10:15:00
+N-7008,NONEXIST,farm,Orphan note.,2026-06-25 08:00:00
